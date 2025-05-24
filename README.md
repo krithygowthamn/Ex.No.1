@@ -1,6 +1,6 @@
 # PROMPT-ENGINEERING- 1. Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-## Name: Jai Surya S
-## Reg No: 212222220016
+## Name: Gowtham N
+## Reg No: 212222220013
 
 **Abstract:**
 This report presents an in-depth analysis of Generative Artificial Intelligence (Generative AI) and Large Language Models (LLMs). It explores foundational concepts, key architectures such as Transformers, diverse applications, the impact of scaling, and future trends. The report is tailored to students, early researchers, and technology enthusiasts, offering a structured understanding of how these technologies are transforming the AI landscape.
